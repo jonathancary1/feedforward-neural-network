@@ -2,7 +2,7 @@
 
 This module implements a feedforward neural network using NumPy.
 
-The MNIST database is also included along with convenience function for loading it.
+The MNIST database is also included along with convenience functions for loading it.
 
 Run `python setup.py install` to setup the module.
 
